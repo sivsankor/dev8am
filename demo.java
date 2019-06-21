@@ -1,0 +1,5 @@
+
+ class demo
+ {
+    printf('hello');
+ }
