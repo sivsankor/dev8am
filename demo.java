@@ -1,3 +1,11 @@
+ void Multiplication()
+ {
+   C=A*B
+ }
+ void Division()
+ {
+   C=A/B
+ }
  
  void Subtraction()
  {
