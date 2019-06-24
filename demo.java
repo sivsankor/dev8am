@@ -1,6 +1,13 @@
 
+ 
  class Bank
  {
+   void fundsTrans()
+   { ..... }
+   void balEnqry()
+   { ......}
+  
+  
    void deposite()
    {
      bal=bal+amt;
