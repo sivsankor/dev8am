@@ -1,3 +1,17 @@
+
+ class Bank
+ {
+   void deposite()
+   {
+     bal=bal+amt;
+   } 
+ }
+
+
+
+
+
+
  void Multiplication()
  {
    C=A*B
