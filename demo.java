@@ -1,3 +1,13 @@
+ 
+ void Subtraction()
+ {
+   C=A-B
+ }
+ void Addition()
+ {
+   C=A+B
+ } 
+ 
  void masterCode()
  {
     ....Test code Master
