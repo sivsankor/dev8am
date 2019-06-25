@@ -1,4 +1,10 @@
 
+ void sathya()
+ {
+    SATHYA TECH
+    AMEERPET
+    HYDERABD
+  }
  
  class Bank
  {
